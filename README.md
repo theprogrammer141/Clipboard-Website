@@ -4,7 +4,7 @@ A modern, responsive landing page built using **Tailwind CSS**. This project sho
 
 ## 🚀 Demo
 
-**Live Preview:** [View Website](https://theprogrammer141.github.io/Clipboard-Website/)
+**Live Preview:** [View Website](https://clipboard-website-1.netlify.app/)
 
 ---
 
